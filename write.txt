@@ -1,4 +1,8 @@
-Hello World!
-What Is The Weather Like Out There?
-Are You Ok?
-What's Today's Date?
+10
+35
+59
+60
+62
+75
+85
+90
