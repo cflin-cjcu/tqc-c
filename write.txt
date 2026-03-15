@@ -1,0 +1,4 @@
+Hello World!
+What Is The Weather Like Out There?
+Are You Ok?
+What's Today's Date?
